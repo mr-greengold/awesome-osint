@@ -928,6 +928,7 @@ algorithms, knowledgebase and AI technology.
 * [BuiltWith](https://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](https://centralops.net)
 * [Cerast Intelligence](https://search.cerast-intelligence.com/) - Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning; look up the exposure findings on record for a given domain.
+* [CC.LA](https://cc.la) - Free WHOIS, RDAP, DNS, IP WHOIS, name server history, SSL certificate lookup, and network diagnostic tools (ping/traceroute/MTR). Also provides expiring domain calendars, TLD library, domain monitoring, and domain availability checker. No sign-up required.
 * [CrawlGraph](https://crawlgraph.com) - Maps who links to any domain using the open Common Crawl hyperlink graph. Free, no-signup referring-domain and competitor link-footprint lookups for domain research.
 * [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
 * [Dedicated or Not](https://dedicatedornot.com)
@@ -988,6 +989,7 @@ algorithms, knowledgebase and AI technology.
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
 * [SameID](https://sameid.net)
+* [ScanMalware](https://scanmalware.com) - Free URL scanner that renders a page in a sandboxed browser and reports phishing and malware verdicts, network requests, technologies, TLS/JARM fingerprints and screenshots, with a public feed of recent scans searchable by domain, IP, ASN or favicon hash.
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SubDomainRadar.io](https://subdomainradar.io) - Fast subdomain finder with multiple search modes and the most extensive data sources, offering real-time notifications.
 * [SEMrush](https://www.semrush.com)
@@ -1600,6 +1602,7 @@ algorithms, knowledgebase and AI technology.
 * [Mailbox](https://mailbox.org)
 * [Mailvelope](https://www.mailvelope.com)
 * [Master Password](https://masterpasswordapp.com)
+* [MetaClean](https://github.com/Moresyl/metaclean) - Cross-platform desktop app for removing sensitive metadata from files locally before sharing them during OSINT investigations.
 * [Nixory](https://nixory.sourceforge.net)
 * [NoScript](https://noscript.net)
 * [Open DNS](https://www.opendns.com/home-internet-security)
