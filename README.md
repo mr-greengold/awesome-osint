@@ -324,7 +324,7 @@ algorithms, knowledgebase and AI technology.
 * [eyedex](https://www.eyedex.org/) - Open directory search engine.
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
 * [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
-* [Find Security Contacts] https://findsecuritycontacts.com - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
+* [Find Security Contacts](https://findsecuritycontacts.com) - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
 * [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
 * [NAPALM FTP Indexer](https://www.searchftps.net/)
 * [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
@@ -404,7 +404,6 @@ algorithms, knowledgebase and AI technology.
 * [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 * [NerdyData](https://nerdydata.com) - Search engine for source code.
 * [PublicWWW](https://publicwww.com/)
-* [Reposearch](https://codefinder.org/)
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 * [Sourcebot](https://www.sourcebot.dev/) - Index thousands of repos on your machine and search through them in a fast, powerful, and modern web interface.
 * [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
@@ -724,7 +723,7 @@ algorithms, knowledgebase and AI technology.
 * [Mugshots](https://mugshots.com/)
 * [Offendersearch](https://offendersearch.app) - Free. Search all 58 US state, territory and tribal sex-offender registries in one query; scored, de-duplicated results with a link to the official registry record behind each match. Public API + open data + MCP server.
 * [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
-* [PeekYou](https://www.peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
+* [PeekYou](https://peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
 * [Reunion](https://reunion.com) - People search. Limited free info, premium data upsell.
 * [Socialcatfish](https://socialcatfish.com/) - Superextensive people search which works worldwide. Searches are done from 200 Billion records.
 * [SearchBug](https://www.searchbug.com) - People search. Limited free info, premium data upsell.
@@ -922,7 +921,6 @@ algorithms, knowledgebase and AI technology.
 * [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
 * [Accuranker](https://www.accuranker.com)
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
-* [Argos OSINT](https://argos-osint.com) - Free Spanish-language OSINT platform: 31 client-side tools + 7 step-by-step guides + 10 curated OSINT prompts for Claude/LLM. Covers WHOIS/RDAP, DoH DNS, subdomain enumeration (crt.sh), unified domain dashboard, IP geolocation, IP reputation via Shodan InternetDB, email header analyzer (SPF/DKIM/DMARC), SPF/DMARC auditor, pwned password check via HIBP k-anonymity, EXIF and PDF metadata analyzers, reverse image search aggregator, Wayback lookup, username finder across 50+ platforms, WhatsApp chat analyzer, JWT decoder, regex/color/UA parser/QR/base64/hash/URL cleaner. No signup, PWA installable, all processing in-browser.
 * [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 * [Bgpview.io](https://bgpview.io) - The website bgpview.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
 * [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster)
@@ -1073,7 +1071,6 @@ algorithms, knowledgebase and AI technology.
 * [Google Image](https://images.google.com)
 * [Google Lens](https://lens.google.com/)
 * [Image Identification Project](https://www.imageidentify.com)
-* [Image Raider](https://www.imageraider.com) - is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
 * [KartaVision](https://kartavision.com/) - search engine for KartaView imagery. It supports natural-language search and search by image
 * [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
 * [Lycos Image Search](https://search.lycos.com)
@@ -1114,7 +1111,6 @@ algorithms, knowledgebase and AI technology.
 * [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.
 * [Bing Videos](https://www.bing.com/?scope=video)
 * [Clarify](https://clarify.io)
-* [Clip Blast](https://www.clipblast.com)
 * [DailyMotion](https://www.dailymotion.com)
 * [Deturl](https://deturl.com) - Download a YouTube video from any web page.
 * [DownloadHelper](https://www.downloadhelper.net) - Download any video from any websites, it just works!
@@ -1279,12 +1275,10 @@ algorithms, knowledgebase and AI technology.
 * [Google News Print Archive](https://news.google.com/newspapers)
 * [HeadlineSpot](https://www.headlinespot.com)
 * [Itar-Tass](https://www.itar-tass.com)
-* [List of Newspapers.com](https://www.listofnewspapers.com)
 * [MagPortal](https://www.magportal.com)
 * [News Map](https://newsmap.jp)
 * [News Now](https://www.newsnow.co.uk)
 * [Newseum - Today Front Pages](https://www.newseum.org/todaysfrontpages)
-* [Newslink](https://www.newslink.org)
 * [NewsLookup](https://www.newslookup.com)
 * [Newspaper Map](https://newspapermap.com)
 * [Newspaperindex](https://www.newspaperindex.com)
@@ -1410,12 +1404,10 @@ algorithms, knowledgebase and AI technology.
 * [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 * [ChangeDetection.io](https://changedetection.io)
 * [ChangeDetection.io Open Source](https://github.com/dgtlmoon/changedetection.io)
-* [ChangeDetect](https://www.changedetect.com)
 * [ChangeDetection](https://www.changedetection.com)
 * [Deltafeed](https://bitreading.com/deltafeed)
 * [DiggReader](https://digg.com/login?next=%2Freader)
 * [FeedBooster](https://www.qsensei.com)
-* [Feederator](https://www.feederator.org)
 * [Feed Exileed](https://feed.exileed.com)
 * [Feed Filter Maker](https://feed.janicek.co)
 * [Feedly](https://www.feedly.com)
@@ -1433,7 +1425,6 @@ algorithms, knowledgebase and AI technology.
 * [Reeder](https://reederapp.com)
 * [RSS Bridge](https://bridge.suumitsu.eu)
 * [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)
-* [RSS Micro](https://www.rssmicro.com)
 * [RSS Search Engine](https://ctrlq.org/rss)
 * [RSS Search Hub](https://www.rsssearchhub.com)
 * [RSSOwl](https://www.rssowl.org)
@@ -1547,7 +1538,6 @@ algorithms, knowledgebase and AI technology.
 * [Quadrigram](https://www.quadrigram.com)
 * [Raphael](https://dmitrybaranovskiy.github.io/raphael)
 * [RAW](https://raw.densitydesign.org)
-* [Shanti Interactive](https://www.viseyes.org)
 * [Snappa](https://snappa.io)
 * [StoryMap](https://storymap.knightlab.com)
 * [Tableau Public](https://public.tableau.com)
@@ -1648,6 +1638,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Maritime
 
+* [Logibook](https://logibook.dataint.net) - Trade and logistics reference covering 250 countries: 58,730 sourced entities across ports, airports, terminals, trade zones and carriers, built from the NGA World Port Index, UN/LOCODE, SMDG terminal and liner code lists, ISO 6346 container codes, UNCTAD liner shipping connectivity and World Bank port throughput. Each port page also shows the nearest airport, city and trade zone with distances. Every figure carries its source and year. Web reference only, no API or bulk download.
 * [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 * [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
@@ -1763,7 +1754,6 @@ algorithms, knowledgebase and AI technology.
 * [OSINTCurious](https://osintcurio.us/)
 * [Sector035](https://sector035.nl/)
 * [Skopenow](https://www.skopenow.com/news)
-* [Sleuth For The Truth](https://sleuthforthetruth.com/)
 * [Social Links](https://blog.sociallinks.io/)
 
 ## [↑](#-table-of-contents) OSINT RSS Feeds
