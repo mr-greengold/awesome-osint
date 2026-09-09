@@ -685,6 +685,7 @@ algorithms, knowledgebase and AI technology.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.
 * [Trace](https://trace.manus.space) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
+* [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Username — Instantly. Scans thousands of sites for username presence.
 * [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 * [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 * [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
@@ -775,6 +776,7 @@ algorithms, knowledgebase and AI technology.
 * [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
+* [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Email — Instantly. Scans hundreds of sites for email presence, breaches and more.
 * [user-scanner](https://github.com/kaifcodec/user-scanner.git) - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
 * [Verify Email](https://verify-email.org) - The fastest and most accurate email verification tool.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
@@ -792,6 +794,7 @@ algorithms, knowledgebase and AI technology.
 * [SearchPeopleFREE](https://www.searchpeoplefree.com/phone-lookup) - a reverse name, address, email address, or phone lookup that allows you to discover the owner of a phone number or who lives at an address.
 * [Spy Dialer](https://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Sync.ME](https://sync.me/) - a caller ID and spam blocker app.
+* [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Phone — Instantly. Scans multiple sites for phone presence, breaches, validity and more.
 * [Truecaller](https://truecaller.com) - Global reverse phone number search.
 * [Twilio](https://www.twilio.com/docs/lookup/v2-api) - Look up a phone numbers carrier type, location, etc. Twilio offers free accounts that come with credits you can use with their API. Each lookup is only ~$0.01-$0.02 typically on US and CAN numbers.
 * [USPhoneBook](https://www.usphonebook.com/) - Reverse phone and address lookups and leading data.
