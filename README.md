@@ -123,6 +123,7 @@ algorithms, knowledgebase and AI technology.
 
 * [AtDork](https://github.com/amnottdevv/atdork) - Professional OSINT dorking tool featuring adaptive delay, circuit breaker, and automatic backend fallback to avoid IP bans and rate limits.
 * [DorkCraft](https://github.com/juandresrodca/DorkCraft) - Google dork generator that builds advanced search queries for OSINT and reconnaissance.
+* [DorkEye](https://github.com/xPloits3c/DorkEye) - Automated Google dorking tool that generates thousands of advanced queries per second from a file to find exposed files, thanks to CAPTCHA bypass and ban avoidance. It also tests for vulnerabilities, runs multi-agent analysis, and extracts metadata.
 * [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
 * [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 * [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
@@ -1116,6 +1117,7 @@ algorithms, knowledgebase and AI technology.
 * [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
+* [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
@@ -1367,6 +1369,7 @@ algorithms, knowledgebase and AI technology.
 * [LandMatrix](https://landmatrix.org)
 * [Latinobarometro](https://www.latinobarometro.org)
 * [Library, University of Michigan: Statistics and Datasets](https://www.lib.umich.edu/browse/Statistics%20and%20Data%20Sets)
+* [NarcoScope](https://narcoscope.com) - Public-interest explorer of official drug-market prices, precursor flows, seizures, and public-health context, with source links and explicit evidence gaps.
 * [Nation Master](https://www.nationmaster.com/statistics)
 * [OECD Aid Database](https://www.oecd.org/dac/stats/data.htm)
 * [OECD Data](https://data.oecd.org)
@@ -1446,9 +1449,9 @@ algorithms, knowledgebase and AI technology.
 * [The Old Reader](https://theoldreader.com)
 * [versionista](https://versionista.com)
 * [visualping](https://visualping.io)
+* [Wayback-Diff](https://github.com/GeiserX/Wayback-Diff)
 * [WebReader](https://www.getwebreader.com)
 * [WebSite Watcher](https://www.aignes.com/index.htm)
-* [Website-Diff](https://github.com/GeiserX/Website-Diff)
 * [Winds](https://winds.getstream.io)
 
 ## [↑](#-table-of-contents) Browsers
