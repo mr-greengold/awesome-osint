@@ -270,7 +270,6 @@ algorithms, knowledgebase and AI technology.
 
 * [DocumentCloud](https://www.documentcloud.org) - Platform for analyzing, annotating, and publishing documents.
 * [Epstein Exposed](https://epsteinexposed.com) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
-* [Find-pdf-doc](https://www.findpdfdoc.com)
 * [Free Full PDF](https://www.freefullpdf.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [RECAP Archive](https://www.courtlistener.com/recap/) - Public archive of PACER court documents.
@@ -386,8 +385,6 @@ algorithms, knowledgebase and AI technology.
 * [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
 * [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
 * [Spacebin](https://spaceb.in/) - Spacebin is a modern Pastebin server implemented in Go and is capable of serving notes, novels, code, or any other form of text.
-* [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
-* [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
 * [TutPaste](https://tutpaste.com/) - Welcome to our fast and free online paste tool. Paste and share your text or code snippets with anyone, anywhere, no registration required.
 * [vaultbin](https://vaultb.in/) - Vaultbin is a blazingly fast and secure alternative to Pastebin and Hastebin.
 * [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
@@ -1484,9 +1481,7 @@ algorithms, knowledgebase and AI technology.
 * [A1 Website Download](https://www.microsystools.com/products/website-download) - Download entire websites to disk.
 * [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
 * [gmapcatcher](https://github.com/heldersepu/gmapcatcher)
-* [Hooey webprint](https://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 * [HTTrack](https://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
-* [Offliberty](https://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 * [Resolver](https://metaproductsrevolver.com)
 * [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html)
 * [WebAssistant](https://www.proxy-offline-browser.com/download.html)
