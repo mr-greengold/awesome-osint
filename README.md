@@ -195,7 +195,6 @@ algorithms, knowledgebase and AI technology.
 * [NOX](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
 * [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
 * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
-* [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
 ## [↑](#-table-of-contents) Speciality Search Engines
 
@@ -327,7 +326,6 @@ algorithms, knowledgebase and AI technology.
 * [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
 * [Find Security Contacts](https://findsecuritycontacts.com) - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
 * [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
-* [NAPALM FTP Indexer](https://www.searchftps.net/)
 * [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
 * [SearchFiles.de](https://searchfiles.de/)
 
@@ -419,7 +417,6 @@ algorithms, knowledgebase and AI technology.
 * [Pinterest](https://www.pinterest.com) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
 * [Qzone (China)](https://qzone.qq.com)
 * [Reddit](https://www.reddit.com)
-* [Taringa (Latin America)](https://www.taringa.net)
 * [Threads](https://www.threads.net) - Text-based conversation app from Meta.
 * [Tinder](https://www.gotinder.com)
 * [Tumblr](https://www.tumblr.com)
@@ -431,7 +428,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Real-Time Search, Social Media Search, and General Social Media Tools
 
 * [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
-* [Bottlenose](https://bottlenose.com)
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
 * [Buzz sumo](https://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
@@ -441,22 +437,17 @@ algorithms, knowledgebase and AI technology.
 * [Hootsuite](https://hootsuite.com)
 * [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
 * [Klear](https://klear.com)
-* [Kribrum](https://kribrum.io/)
 * [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
 * [MustBePresent](https://mustbepresent.com)
-* [Netvibes](https://www.netvibes.com)
 * [Oblivion](https://github.com/loseys/Oblivion)
 * [OpinionCrawl](https://www.opinioncrawl.com)
 * [OSINTNova](https://app.osintnova.com/) - AI-powered OSINT platform for advanced digital investigations and intelligence analysis
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 * [Rival IQ](https://www.rivaliq.com)
-* [Social DownORNot](https://social.downornot.com)
 * [Social Searcher](https://www.social-searcher.com)
 * [SocialBakers](https://www.socialbakers.com)
 * [SocialBlade](https://socialblade.com)
 * [Tagboard](https://tagboard.com)
-* [UVRX](https://www.uvrx.com/social.html)
-* [WATools](https://watools.io/)
 
 ## Social Media Tools
 
@@ -465,13 +456,9 @@ algorithms, knowledgebase and AI technology.
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [Foller.me](https://foller.me)
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
-* [OneMillionTweetMap](https://onemilliontweetmap.com)
 * [RiteTag](https://ritetag.com)
-* [Sentiment140](https://www.twittersentiment.appspot.com)
 * [Tagdef](https://tagdef.com)
 * [Trends24](https://trends24.in)
-* [TwChat](https://twchat.com)
-* [TweetMap](https://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets)
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 * [Twitter Audit](https://www.twitteraudit.com)
@@ -522,7 +509,6 @@ algorithms, knowledgebase and AI technology.
 * [Pushshift API](https://pushshift.io/) - A powerful API that provides access to historical Reddit data, including posts, comments, and metadata for analysis and research—more information [here](https://www.reddit.com/r/pushshift/).
 * [Pullpush](https://pullpush.io/) - PullPush is a service for the indexing and retrieval of content that Reddit users have submitted to Reddit. Helpful for finding deleted/removed posts & comments.
 * [REDARCS](https://the-eye.eu/redarcs/) - Reddit archives 2005-2023.
-* [Reddit Archive](https://www.redditarchive.com) - Historical archives of reddit posts.
 * [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
 * [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer.
 * [RedditMetis](https://redditmetis.com/) - RedditMetis is a Reddit user analysis tool to see the summary and statistics for a Reddit account, including top posts and user activity etc.
@@ -545,9 +531,9 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) WhatsApp
 
-*[2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.
-*[Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.
-*[Whatsapp CheckLeaked](https://whatsapp.checkleaked.cc/) - WhatsApp Number Search & Profile Photo Checker. API Option Available.
+* [2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.
+* [Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.
+* [Whatsapp CheckLeaked](https://whatsapp.checkleaked.cc/) - WhatsApp Number Search & Profile Photo Checker. API Option Available.
 
 ### [↑](#-table-of-contents) Tumblr
 
@@ -566,7 +552,6 @@ algorithms, knowledgebase and AI technology.
 * [Telegram Finder](https://www.telegram-finder.io/) - A tool to find Telegram users by their phone number, linkedin url or email.
 * [Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
 * [TgramSearch](https://tgramsearch.com/) - Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.
-* [tgworld](https://tg.world/) - The Global Search System TG.World will help you find Channels, Groups and Bots in Telegram in any language and for any country in the world!
 * [Telegram Channel Joiner](https://github.com/spmedia/Telegram-Channel-Joiner) - grow your Free and Premium Telegram accounts easily with this channel joiner script.
 * [Telepahty](https://github.com/proseltd/Telepathy-Community) - Telepathy is a tool that archives Telegram chats and analyzes communication patterns within the app. By providing insights into user interactions, message frequency, and content trends, Telepathy helps investigators understand the dynamics and relationships within Telegram groups and channels.
 * [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.  
@@ -657,7 +642,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Blog Search
 
-* [BlogSearchEngine](https://www.blogsearchengine.org)
+
 * [Notey](https://www.notey.com) - Blog post search engine.
 * [Twingly](https://www.twingly.com)
 
@@ -665,7 +650,6 @@ algorithms, knowledgebase and AI technology.
 
 * [4chan Search](https://4chansearch.com/)
 * [Boardreader](https://boardreader.com)
-* [Built With Flarum](https://builtwithflarum.com/)
 * [Facebook Groups](https://www.facebook.com)
 * [Google Groups](https://groups.google.com)
 * [Linkedin Groups](https://www.linkedin.com)
@@ -674,17 +658,13 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Username Check
 
-* [Antisocial](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
-* [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 * [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 * [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Name Chk](https://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
-* [Name Checkr](https://www.namecheckr.com) - checks a domain and username across many platforms.
 * [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
-* [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 * [NexFil](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
 * [Seekr](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
@@ -1562,7 +1542,6 @@ algorithms, knowledgebase and AI technology.
 * [Vis.js](https://visjs.org)
 * [Visme](https://www.visme.co)
 * [Visualize Free](https://visualizefree.com)
-* [Visualize.me](https://vizualize.me)
 * [visually](https://create.visual.ly)
 * [Vortex](https://www.dotmatics.com/products/vortex)
 * [ZingChart](https://www.zingchart.com)
@@ -1580,11 +1559,9 @@ algorithms, knowledgebase and AI technology.
 * [Abine](https://www.abine.com)
 * [Adium](https://adium.im)
 * [Bitwarden](https://bitwarden.com) - Open-source password manager with cross-platform support.
-* [boxcryptor](https://www.boxcryptor.com)
 * [CCleaner](https://www.piriform.com/ccleaner)
 * [Chatsecure](https://chatsecure.org)
 * [Disconnect](https://disconnect.me)
-* [Do Not Track](https://donottrack.us)
 * [Duck Duck Go Search Engine](https://duckduckgo.com)
 * [EncSF MP](https://encfsmp.sourceforge.net)
 * [Epic Privacy Browser](https://www.epicbrowser.com)
@@ -1664,7 +1641,6 @@ algorithms, knowledgebase and AI technology.
 * [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 * [FaviconHash](https://kriztalz.sh/favicon-hash/) - Generate favicon hashes of a website for use on Shodan, VirusTotal, Censys, ZoomEye or FOFA.
-* [Find osint tool](https://find.osint-tool.com) - Searches multiple OSINT tools to find information across various sources.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 * [Glit](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
@@ -1687,7 +1663,6 @@ algorithms, knowledgebase and AI technology.
 * [Outwit](https://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 * [PGPKeyAnalyser](https://kriztalz.sh/pgp-key-analyser/) - Analyse and view the details of a PGP key online without having to download the asc file.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-* [PRISM](https://github.com/NovaCode37/Prism-platform) - Self-hosted all-in-one OSINT platform that scans a domain, IP, email, phone, or username across 22+ modules and returns threat intel, breach data, subdomains, an OPSEC score, entity graph, GeoIP map, and HTML/PDF reports. [Live demo](https://getprism.su).
 * [Pyba](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
 * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
