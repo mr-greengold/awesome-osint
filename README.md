@@ -176,7 +176,6 @@ algorithms, knowledgebase and AI technology.
 * [Gibiru](https://gibiru.com/) - Gibiru provides “uncensored search results” without collecting personal data like logging users’ IP addresses or search queries.
 * [Kagi Search](https://kagi.com/) - Liberate your search. Free of ads. Free of surveillance. Your time respected. You are the customer, never the product.
 * [Mojeek](https://www.mojeek.com/) - Mojeek is a growing independent search engine which does not track you.
-* [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
 * [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
 * [Startpage](https://www.startpage.com/) - The world’s most private search engine.
 * [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
@@ -207,14 +206,12 @@ algorithms, knowledgebase and AI technology.
 * [BGP.tools](https://bgp.tools) - Modern BGP toolkit for network reconnaissance and analysis.
 * [BGP.he.net](https://bgp.he.net) - Free BGP and network intelligence toolkit
 * [bgpmap.net](https://bgpmap.net) - Free multi-vantage BGP looking glass for IP and prefix reconnaissance, with per-prefix AS-path graphs, RPKI validation and shareable snapshots.
-* [Biznar](https://biznar.com)
 * [BrightCloud](https://brightcloud.com/tools/url-ip-lookup.php) - Checks the reputation, category, and potential threats associated with a URL or IP address.
 * [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
 * [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
 * [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
 * [CertStream API](https://certstream.dev/free-certstream-api.html) - Free real-time WebSocket stream of newly issued SSL/TLS certificates and domain names from Certificate Transparency logs, no API key required
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
-* [CiteSeerX](https://citeseer.ist.psu.edu)
 * [Cloudflare Radar](https://radar.cloudflare.com) - Internet traffic patterns, attacks, and technology trends.
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
 * [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
@@ -238,9 +235,7 @@ algorithms, knowledgebase and AI technology.
 * [packet.guru](https://packet.guru/) - Browser-fingerprint and connection-trust audit: WebRTC/DNS leak tests, JA4/JA3 TLS and passive TCP/IP fingerprints, ECH state, and IP reputation (VPN, proxy, datacenter, Tor), returning two independent 0–100 Privacy & Trust scores. No signup, runs client-side.
 * [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
-* [SikkerAPI](https://www.sikkerapi.com/) - SikkerAPI is a free IP and threat intelligence provider, that publishes IP reputation scores, behavioral data and full attack sessions across 16+ different protocols.
 * [WIPO](https://www3.wipo.int/branddb/en/)
-* [WorldWideScience.org](https://worldwidescience.org)
 * [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
 * [YARAif](https://yaraify.abuse.ch/scan/) - Collaborative YARA engine providing open threat intelligence through file pattern matching.
 * [Zanran](https://zanran.com)
@@ -432,7 +427,6 @@ algorithms, knowledgebase and AI technology.
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
 * [Buzz sumo](https://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
-* [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
 * [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
 * [Geocreepy](https://www.geocreepy.com)
 * [Hootsuite](https://hootsuite.com)
@@ -674,6 +668,7 @@ algorithms, knowledgebase and AI technology.
 * [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Username — Instantly. Scans thousands of sites for username presence.
 * [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 * [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+* [Threat Actor Username Search](https://threatactorusernames.com) - Search through 3M+ threat actor usernames to find where criminals and baddies post online and operate.
 * [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
 * [User Search](https://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
@@ -703,7 +698,6 @@ algorithms, knowledgebase and AI technology.
 * [Fold3 (US Military Records)](https://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 * [Genealogy Bank](https://www.genealogybank.com) - Premium data, free trial with credit card.
 * [Genealogy Links](https://www.genealogylinks.net) - Genealogy directory with over 50K links.
-* [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent..
 * [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Kompass](https://www.kompass.com) - Business directory and search.
@@ -776,7 +770,6 @@ algorithms, knowledgebase and AI technology.
 * [InMobPrefix](https://github.com/hstsethi/in-mob-prefix) - Dataset, charts, models about mobile phone numbers prefixes in India along with their respective state, operator.
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
-* [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
 * [Reverse Phone Lookup](https://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [SearchPeopleFREE](https://www.searchpeoplefree.com/phone-lookup) - a reverse name, address, email address, or phone lookup that allows you to discover the owner of a phone number or who lives at an address.
 * [Spy Dialer](https://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
@@ -817,7 +810,6 @@ algorithms, knowledgebase and AI technology.
 
 * [AllStocksLinks](https://www.allstocks.com/links)
 * [Better Business Bureau](https://www.bbb.org)
-* [Bizeurope](https://www.bizeurope.com)
 * [Bloomberg](https://www.bloomberg.com/research/company/overview/overview.asp)
 * [BrownBook](https://www.brownbook.net/)
 * [Bureau Van Dijk](https://www.bvdinfo.com)
@@ -852,7 +844,6 @@ algorithms, knowledgebase and AI technology.
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
 * [OpenOwnership Register](https://register.openownership.org/)
-* [Orbis directory](https://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 * [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 * [Plunkett Research](https://www.plunkettresearchonline.com)
 * [Scoot](https://www.scoot.co.uk)
@@ -1144,7 +1135,6 @@ algorithms, knowledgebase and AI technology.
 * [Journal Guide](https://www.journalguide.com)
 * [Journal Seek](https://journalseek.net)
 * [JSTOR](https://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
-* [Lazy Scholar](https://www.lazyscholar.org)
 * [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 * [Microsoft Academic](https://academic.research.microsoft.com)
 * [NRC Research Press](https://www.nrcresearchpress.com)
@@ -1165,8 +1155,6 @@ algorithms, knowledgebase and AI technology.
 * [The Open Syllabus Project](https://opensyllabusproject.org/)
 * [Wiley](https://www.wiley.com)
 * [World Digital Library](https://www.wdl.org)
-* [World Science](https://worldwidescience.org)
-* [Zetoc](https://zetoc.jisc.ac.uk)
 
 
 ## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
@@ -1179,7 +1167,6 @@ algorithms, knowledgebase and AI technology.
 * [Bing Maps](https://www.bing.com/maps)
 * [CartoDB](https://cartodb.com)
 * [Colorbrewer](https://colorbrewer2.org)
-* [CrowdMap](https://crowdmap.com)
 * [digiKam](https://www.digikam.org/)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 * [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
@@ -1201,7 +1188,6 @@ algorithms, knowledgebase and AI technology.
 * [Instant Google Street View](https://www.instantstreetview.com)
 * [InstantAtlas](https://www.instantatlas.com)
 * [KartaView](https://kartaview.org/map/)
-* [Kartograph](https://kartograph.org)
 * [Leaflet](https://leafletjs.com)
 * [Liveuamap](https://liveuamap.com/)
 * [Map Maker](https://maps.co)
@@ -1219,6 +1205,7 @@ algorithms, knowledgebase and AI technology.
 * [NGA GEOINT](https://github.com/ngageoint)
 * [Open Street Map](https://www.openstreetmap.org)
 * [OpenLayers](https://openlayers.org)
+* [Overhead24](https://overhead24.com) - Live 3D globe of every satellite with public orbital data, flagging military satellites over active conflict areas, close approaches and recent manoeuvres. Free, no account.
 * [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
 * [Pic2Map](https://www.pic2map.com/)
 * [Polymaps](https://polymaps.org)
@@ -1264,15 +1251,9 @@ algorithms, knowledgebase and AI technology.
 * [France24](https://www.france24.com)
 * [Google News](https://news.google.com)
 * [Google News Print Archive](https://news.google.com/newspapers)
-* [HeadlineSpot](https://www.headlinespot.com)
-* [Itar-Tass](https://www.itar-tass.com)
-* [MagPortal](https://www.magportal.com)
-* [News Map](https://newsmap.jp)
 * [News Now](https://www.newsnow.co.uk)
 * [Newseum - Today Front Pages](https://www.newseum.org/todaysfrontpages)
-* [NewsLookup](https://www.newslookup.com)
 * [Newspaper Map](https://newspapermap.com)
-* [Newspaperindex](https://www.newspaperindex.com)
 * [Newspapers.com](https://www.newspapers.com)
 * [NewsWhip](https://www.newswhip.com)
 * [OnlineNewspapers](https://www.onlinenewspapers.com)
@@ -1281,7 +1262,6 @@ algorithms, knowledgebase and AI technology.
 * [Press Reader](https://www.pressreader.com)
 * [Reuters](https://www.reuters.com)
 * [Silobreaker](https://www.silobreaker.com)
-* [Topix](https://www.topix.com)
 * [WorldNews](https://wn.com)
 * [World-Newspapers](https://www.world-newspapers.com)
 * [Yahoo News](https://news.yahoo.com)
