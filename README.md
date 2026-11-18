@@ -192,6 +192,7 @@ algorithms, knowledgebase and AI technology.
 * [NOX](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
 * [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
 * [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
+* [Vendor History](https://vendorhistory.com/) - Check whether a software vendor a business uses has been breached: state breach notices, SEC cyber filings, CISA exploited flaws and ransomware claims for 255 vendors, each linked to its source. Free, no signup.
 
 ## [↑](#-table-of-contents) Speciality Search Engines
 
@@ -837,6 +838,7 @@ algorithms, knowledgebase and AI technology.
 * [Inc. 5000](https://www.inc.com/inc5000)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
+* [Lacis](https://c4seus.github.io/lacis/) - Free, open-source desktop tool for Linux and Windows that maps French companies, their directors and addresses into a sourced link graph from the national company register and the BODACC, and flags patterns such as mass domiciliation or phoenix schemes. Interface in French.
 * [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
 * [Mergent Intellect](https://www.mergentintellect.com)
 * [Mergent Online](https://www.mergentonline.com/login.php)
@@ -1212,6 +1214,7 @@ algorithms, knowledgebase and AI technology.
 * [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 * [SOAR](https://soar.earth/)
 * [StoryMaps](https://storymaps.arcgis.com/en)
+* [Street Crime Map](https://streetcrimemap.co.uk/) - Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes.
 * [SunCalc](https://www.suncalc.org/)
 * [Tableau](https://www.tableausoftware.com)
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
